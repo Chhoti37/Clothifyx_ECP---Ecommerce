@@ -57,7 +57,7 @@ Follow these steps to run the project locally:
     
 ## 📸 Project Preview
 **Homepage:
-![Screenshot_27-3-2026_1919_127 0 0 1](https://github.com/user-attachments/assets/b6ad2fc6-b9f2-4bf0-8985-0dd506a6ef11)
+<img width="1864" height="3073" alt="Screenshot_17-4-2026_2303_127 0 0 1" src="https://github.com/user-attachments/assets/761da0e7-4824-4291-9349-efbe94756786" />
 
 **Paypal Integration:
 ![Screenshot_28-3-2026_031_127 0 0 1](https://github.com/user-attachments/assets/b07ce3bf-9459-4cf1-859b-8e0b6d366b21)
